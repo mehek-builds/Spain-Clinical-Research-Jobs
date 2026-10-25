@@ -1,6 +1,6 @@
 # Clinical Research Jobs in Spain (plus US remote)
 
-**54 open CRC, CRA, regulatory, study start-up and CTA roles in Spain, plus fully remote US clinical research roles at 21 US employers.** Checked 20 Oct 2026. 23 posted in the last 7 days. 3 at employers with a visa sponsorship record.
+**53 open CRC, CRA, regulatory, study start-up and CTA roles in Spain, plus fully remote US clinical research roles at 20 US employers.** Checked 20 Oct 2026. 23 posted in the last 7 days. 3 at employers with a visa sponsorship record.
 
 Clinical research roles hiring in Spain (Madrid, Barcelona and elsewhere): CRC, CRA, regulatory, study start-up and clinical trial assistant roles. A second list has fully remote US clinical research roles; whether an employer supports a digital nomad visa is not stated in postings, so ask each one.
 
@@ -8,7 +8,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 
 | List | Roles | Employers |
 | --- | --- | --- |
-| [Spain](lists/spain.md) | 31 | 16 |
+| [Spain](lists/spain.md) | 30 | 15 |
 | [Fully remote (US)](lists/us-remote.md) | 24 | 10 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
@@ -49,7 +49,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **ICON plc** | [eCOA Licensing Associate - Mapi Research Trust eCOA team](https://trylitos.com/job/894e13ae-7299-4018-b946-3082407f0787?utm_source=github&utm_campaign=spain-clinical-spain) | UK, Reading; Romania, Bucharest; Spain, Barce |  | Sep 30 |  |
 | **Syneos Health** | [CRA II Madrid Sponsor dedicated.](https://trylitos.com/job/ea47ec04-ba42-475a-8939-43e03c3cf0a5?utm_source=github&utm_campaign=spain-clinical-spain) | ESP-Madrid-Hybrid |  | Sep 30 |  |
 | **Alcon** | [Regulatory Affairs Trainee](https://trylitos.com/job/601f0e43-1ff9-4057-903d-1d16efc7c97f?utm_source=github&utm_campaign=spain-clinical-spain) | Cornella, Spain |  | Sep 29 |  |
-| **Ayvens** | [User Researcher](https://trylitos.com/job/a6bcb089-0e77-4fbc-a517-a0ba8e06beaf?utm_source=github&utm_campaign=spain-clinical-spain) | Madrid Majadahonda Norias |  | Sep 24 |  |
 | **Syneos Health** | [Clinical Research Coordinator II (CRC II) Temporary Part Time - Madrid Onsite Hospital  support with Oncology experience](https://trylitos.com/job/c7767b7e-794d-436e-97e2-a582bb2fac86?utm_source=github&utm_campaign=spain-clinical-spain) | ESP-Remote (Madrid) |  | Sep 23 |  |
 | **Syneos Health** | [Clinical Research Coordinator II (CRC II) Permanent Part Time - Sabadell or Barcelona area with experience in Oncology](https://trylitos.com/job/1485c0b7-a7f0-4da1-a24a-61fb39316048?utm_source=github&utm_campaign=spain-clinical-spain) | ESP-Remote (Barcelona) |  | Sep 23 |  |
 | **Syneos Health** | [CRA II (Multisponsor) **HYBRID Madrid or Barcelona **](https://trylitos.com/job/0fb5983b-803f-4e2c-a52b-fb9f4f1d20c3?utm_source=github&utm_campaign=spain-clinical-spain) | ESP-Madrid-Hybrid |  | Sep 22 |  |
